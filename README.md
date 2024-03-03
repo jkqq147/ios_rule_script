@@ -37,7 +37,7 @@ https://github.com/blackmatrix7/ios_rule_script/tree/master/rewrite
 | ------------------------------------------------------------ | ------------------------------------ | ----------- | -------- |
 | [什么值得买](https://github.com/blackmatrix7/ios_rule_script/tree/master/script/smzdm) | 什么值得买任务和去广告               | MagicJS 2/3 | 正常     |
 | [百度贴吧](https://github.com/blackmatrix7/ios_rule_script/tree/master/script/tieba) | 带重试功能的贴吧签到，提高签到成功率 | MagicJS 3   | 正常     |
-| [开屏去广告](https://github.com/blackmatrix7/ios_rule_script/tree/master/script/startup) | 通过脚本去除缓存到本地的APP开屏广告  | MagicJS 3   | 正常     |
+| [开屏去广告](https://github.com/jkqq147/ios_rule_script/tree/master/script/startup) | 通过脚本去除缓存到本地的APP开屏广告  | MagicJS 3   | 正常     |
 | [慢慢买](https://github.com/blackmatrix7/ios_rule_script/tree/master/script/manmanbuy) | 每日自动签到                         | MagicJS 2   | 正常     |
 | [叮咚买菜](https://github.com/blackmatrix7/ios_rule_script/tree/master/script/dingdong) | 每日自动签到                         | MagicJS 3   | 正常     |
 | [Fa米家](https://github.com/blackmatrix7/ios_rule_script/tree/master/script/famijia) | 每日自动签到                         | MagicJS 2   | 正常     |
